@@ -1,5 +1,6 @@
 # Recognizing the state of the game
 
+The program recognizes the state of the game tic-tac-toe using the image processing method. the algorithm is able to recognize examples from trivial to much more difficult complex situations in the image
 
 <table>
   <tr>
