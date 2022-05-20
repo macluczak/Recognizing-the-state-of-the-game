@@ -18,8 +18,8 @@ The program recognizes the state of the game tic-tac-toe using the image process
 </table>
 <table>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/77066408/169564545-2601255b-4ad2-4b3a-8b20-ad24f55c942e.png"  alt="1" width = 480px height = 680px></td>
-    <td> <img src="https://user-images.githubusercontent.com/77066408/169564730-30f55532-bcec-4e0e-bb8d-06ad302afbd5.png"  alt="2" width = 480px height = 680px></td>
+    <td> <img src="https://user-images.githubusercontent.com/77066408/169564545-2601255b-4ad2-4b3a-8b20-ad24f55c942e.png"  alt="1" width = 480px height = 620px></td>
+    <td> <img src="https://user-images.githubusercontent.com/77066408/169564730-30f55532-bcec-4e0e-bb8d-06ad302afbd5.png"  alt="2" width = 480px height = 620px></td>
     
   </tr> 
 </table>
