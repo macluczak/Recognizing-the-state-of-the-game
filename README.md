@@ -2,6 +2,8 @@
 
 The program recognizes the state of the game tic-tac-toe using the image processing method. the algorithm is able to recognize examples from trivial to much more difficult complex situations in the image
 
+## Examples (Trivial/Medium/Tricky/Hard): 
+
 <table>
   <tr>
     <td> <img src="https://user-images.githubusercontent.com/77066408/169562453-d3b50341-2b39-4e2a-a8b3-0004d7c86bd4.png"  alt="1" width = 480px height = 540px></td>
